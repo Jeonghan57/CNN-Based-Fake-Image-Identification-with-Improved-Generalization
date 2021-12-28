@@ -69,7 +69,7 @@ Abstract : With the continued devleopment of image processing technology, we liv
 * 학습(Train)에 사용된 영상의 카테고리 수(또는 콘텐츠)가 증가할수록 학습에 사용되지 않은 카테고리(처음보는 콘텐츠)에 대한 식별 정확도가 향상
 * HSV나 YCbCr로 색 공간 변환(Convert)이나 드롭아웃(Dropout)을 적용함으로서 일반화 능력(Generalization Performance)이 향상 
 <br/> -> but, 모든 방법을 함께 사용하는 것보다 HSV로 색 공간 변환을 사용하고 학습에 사용되는 영상의 카테고리 수(또는 콘텐츠)를 늘리는 것이 가장 효과적
-* 본 논문에서는 기본 딥러닝 모델로 Pelee를 사용했으나, __Xception을 비롯한 다른 딥러닝 모델의 일반화 성능을 향상시키기 위한 방법에 대해 추가연구 필요.__
+* 본 논문에서는 기본 딥러닝 모델로 Pelee를 사용했으나, __Xception을 비롯한 다른 딥러닝 모델의 일반화 성능을 향상시키기 위한 방법에 대해 추가연구 필요__
 <br/><br/><br/>
 
 __This content is inspired by the documents below :__

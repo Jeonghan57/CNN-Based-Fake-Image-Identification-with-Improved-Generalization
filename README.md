@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/77098071/147531256-bd056309-484f-4e43-9e2c-01a75252adb7.png)
 
-__IVC(Image & Vision Computing) Lab / Pukyong Nat'l Univ Electronical Engineering / Busan, Republic of Korea__   
+__IVC(Image & Vision Computing) Lab / Pukyong Nat'l Univ Electronic Engineering / Busan, Republic of Korea__   
 Jeonghan Lee, Hanhoon Park(Major Professor)
 
 * Paper(Korean) :     

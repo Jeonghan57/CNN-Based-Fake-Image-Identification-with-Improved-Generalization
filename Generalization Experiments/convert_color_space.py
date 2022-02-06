@@ -2,7 +2,7 @@
 """
 Created on Thu Jul 29 17:59:47 2021
 
-@author: IVCML
+@author: Jeonghan
 """
 
 import cv2
